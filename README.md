@@ -2,19 +2,12 @@
 A profile screen created using ReactJS for the task of Terribly Tiny Tales.
 
 # TERRIBLY_TINY_TALES_Assignment
+
+## Some Images:
 ![Screenshot (363)](https://github.com/mdkaish19/TERRIBLY_TINY_TALES_Assignment/assets/93025148/e317f324-8cdb-4019-b8e8-4d10284688f3)
 ![Screenshot (364)](https://github.com/mdkaish19/TERRIBLY_TINY_TALES_Assignment/assets/93025148/5bbf3134-e935-468c-ba20-50f9c87687bb)
 ![Screenshot (365)](https://github.com/mdkaish19/TERRIBLY_TINY_TALES_Assignment/assets/93025148/4574b46a-3c28-4cae-b2a8-e2ba2ad03787)
 ![Screenshot (366)](https://github.com/mdkaish19/TERRIBLY_TINY_TALES_Assignment/assets/93025148/6fe64258-4cf8-41d9-aa53-044dce36539a)
-
-## Some Images:
-<div style="display: flex;">
-<img width="450px;" src="https://github.com/Benju2205/terribly_tiny_tales/assets/120126423/08f134c6-0424-4200-939e-5d8c4fe80d39" style="width: 300px; height: 450px; object-fit: cover; margin-right: 10px;"/>
-<img width="450px;" src="https://github.com/Benju2205/terribly_tiny_tales/assets/120126423/2a2a55db-d8f6-498d-8c78-4f657f700864" style="width: 450px; height: 450px; object-fit: cover; margin-right: 10px;"/>
-<img width="450px;" src="https://github.com/Benju2205/terribly_tiny_tales/assets/120126423/058a8cce-b216-488c-9c48-b43c360a0f52" style="width: 450px; height: 300px; object-fit: cover; margin-right: 10px;"/>
-<img width="450px;" src="https://github.com/Benju2205/terribly_tiny_tales/assets/120126423/38bfe1d5-2741-40d8-ad2a-97396de46141" style="width: 450px; height: 300px; object-fit: cover; margin-right: 10px;"/>
-</div>
-
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,7 +16,6 @@ A profile screen created using ReactJS for the task of Terribly Tiny Tales.
 - [Components](#components)
 - [Plugins/dependencies](#usage)
 - [Installation](#installation)
-- [Feedback and Contributions](#contributions)
 
 ## Introduction
 This app is created for the task given by Terribly Tiny Tales for the recruitment process for the role of Frontend Developer intern.
